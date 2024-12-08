@@ -1,4 +1,4 @@
-ForoHub API REST - Challenge Back-End G6 Alura
+ForoHub API REST - Challenge Back-End G7 Alura
 Este proyecto es parte de la Especialización en Back-End ofrecida por Alura - Oracle Next Education. El objetivo de este challenge es construir una API REST para un foro donde los participantes puedan gestionar preguntas relacionadas con diferentes tópicos.
 
 🌟 Objetivo del Proyecto
