@@ -22,14 +22,13 @@ Uso de Swagger para describir y probar la API.
 🔧 Herramientas Necesarias
 Antes de empezar, asegúrate de tener instaladas las siguientes herramientas:
 
-Trello (Organización de tareas)
-Git y GitHub (Control de versiones y repositorios)
 IntelliJ IDEA Community Edition (IDE)
 Java JDK 17+ (Entorno de ejecución)
 Spring Initializr (Generador de proyectos Spring)
 MySQL (Sistema de gestión de bases de datos)
 MySQL Workbench (Herramienta de diseño de bases de datos)
 Insomnia o Postman (Pruebas de API REST)
+
 📦 Dependencias Necesarias
 Las siguientes dependencias se deben seleccionar al generar el proyecto en Spring Initializr:
 
@@ -42,6 +41,7 @@ MySQL Driver: Para conectar con la base de datos MySQL.
 Validation: Para validar datos en las solicitudes.
 Spring Security: Para implementar autenticación y autorización.
 Springdoc OpenAPI (Swagger): Para generar y probar la documentación de la API.
+
 📝 Pasos Principales del Challenge
 1. Configuración Inicial del Entorno
 Instala las herramientas necesarias.
